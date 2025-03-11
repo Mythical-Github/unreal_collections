@@ -29,7 +29,7 @@ Issues = "https://github.com/Mythical-Github/unreal_collections/issues"
 Source = "https://github.com/Mythical-Github/unreal_collections"
 
 [project.scripts]
-unreal_collections = "unreal_collections.__main__:main"
+unreal_collections = "unreal_collections.unreal_collections"
 
 [tool.hatch.metadata]
 allow-direct-references = true
